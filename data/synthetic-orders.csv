@@ -1,0 +1,17 @@
+order_id,order_date,customer_id,channel,product_category,product_name,units,unit_price,unit_cost,order_status
+1001,2026-01-05,C001,Online,Apparel,Logo T-Shirt,12,24.00,11.00,Completed
+1002,2026-01-08,C002,Institutional,Apparel,School Polo,250,11.50,6.00,Completed
+1003,2026-01-14,C003,Retail,Apparel,Hoodie,18,48.00,25.00,Completed
+1004,2026-01-21,C001,Online,Promotional,Water Bottle,40,12.00,5.50,Completed
+1005,2026-02-03,C004,Institutional,Apparel,School Polo,300,11.50,6.00,Completed
+1006,2026-02-09,C002,Online,Apparel,Logo T-Shirt,20,24.00,11.00,Completed
+1007,2026-02-15,C005,Retail,Promotional,Tote Bag,35,16.00,7.00,Completed
+1008,2026-02-22,C006,Online,Apparel,Hoodie,10,48.00,25.00,Cancelled
+1009,2026-03-04,C003,Institutional,Apparel,Team Jacket,25,72.00,39.00,Completed
+1010,2026-03-11,C007,Online,Promotional,Water Bottle,60,12.00,5.50,Completed
+1011,2026-03-18,C001,Retail,Apparel,Logo T-Shirt,15,24.00,11.00,Completed
+1012,2026-03-25,C008,Institutional,Apparel,School Polo,275,11.50,6.00,Completed
+1013,2026-04-02,C009,Online,Apparel,Hoodie,22,48.00,25.00,Completed
+1014,2026-04-09,C002,Institutional,Promotional,Tote Bag,45,16.00,7.00,Completed
+1015,2026-04-16,C010,Retail,Apparel,Team Jacket,12,72.00,39.00,Completed
+1016,2026-04-20,C011,Online,Promotional,Water Bottle,25,12.00,5.50,Refunded
